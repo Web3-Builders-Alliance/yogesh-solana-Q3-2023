@@ -1,0 +1,10 @@
+{
+  "name": "yogesh-solana-Q3-2023",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Web3-Builders-Alliance/yogesh-solana-Q3-2023.git",
+  "license": "MIT",
+  "dependencies": {
+    "@solana/spl-token": "^0.3.8"
+  }
+}
