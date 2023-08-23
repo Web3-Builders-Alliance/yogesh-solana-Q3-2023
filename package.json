@@ -5,6 +5,7 @@
   "repository": "https://github.com/Web3-Builders-Alliance/yogesh-solana-Q3-2023.git",
   "license": "MIT",
   "dependencies": {
+    "@metaplex-foundation/js": "^0.19.4",
     "@solana/spl-token": "^0.3.8"
   }
 }
